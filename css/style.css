@@ -32,7 +32,8 @@ body{
     display: box;  
     box-align: center;  
     box-orient: horizontal;  
-    box-pack: center;  
+    box-pack: center; 
+    border:1px solid #292929; 
 }
 #slides h1,  
 #slides h2,  
